@@ -11,7 +11,7 @@
 [![License](https://img.shields.io/badge/license-Proprietary-94a3b8?style=flat-square)](#)
 [![Platform](https://img.shields.io/badge/platform-Chrome%20%7C%20Edge%20%7C%20Brave-f59e0b?style=flat-square)](#)
 
-[Install](https://ohatwikeeper.com/extensions/oneclick_add/) ・
+[Install](https://ohatwikeeper.com/extension) ・
 [公式サイト](https://ohatwikeeper.com) ・
 [ダッシュボード](https://ohatwikeeper.com/dashboard) ・
 [API ドキュメント](https://ohatwikeeper.com/api-docs) ・
@@ -67,7 +67,7 @@ X のタイムライン上から離れずに、**「おはツイ」をワンク�
 [![Chrome ウェブストアで入手](https://img.shields.io/badge/Chrome-ウェブストアで入手-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/aflgkhadffoploabchfeaakdkaggchig?utm_source=item-share-cb)
 [![Firefox Add-onsで入手](https://img.shields.io/badge/Firefox-Add--onsで入手-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/ja/firefox/addon/%E3%81%8A%E3%81%AF%E3%83%84%E3%82%A4keeper_extension/)
 
-[📖 ダウンロードページ・インストール方法はこちら](https://ohatwikeeper.com/extensions/oneclick_add/)
+[📖 ダウンロードページ・インストール方法はこちら](https://ohatwikeeper.com/extension)
 
 </div>
 
