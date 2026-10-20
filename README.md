@@ -8,7 +8,7 @@
 
 [![Version](https://img.shields.io/badge/version-2.0-38bdf8?style=flat-square)](#)
 [![Manifest](https://img.shields.io/badge/manifest-v3-22c55e?style=flat-square)](#)
-[![License](https://img.shields.io/badge/license-Proprietary-94a3b8?style=flat-square)](#)
+[![License](https://img.shields.io/badge/license-Proprietary-94a3b8?style=flat-square)](./LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Chrome%20%7C%20Edge%20%7C%20Brave-f59e0b?style=flat-square)](#)
 
 [Install](https://ohatwikeeper.com/extension) ・
@@ -242,3 +242,6 @@ Get-FileHash .\ohatwikeeper_v2.0.zip -Algorithm SHA256
 made for **おはツイKeeper** ☀️ ・ [公式X](https://twitter.ohatwikeeper.com) ・ [稼働状況](https://status.ohatwikeeper.com)
 
 </div>
+
+## ライセンス
+オープンソースではありません。公式の配布物は無償で使えますが、ソースの改変や再配布はできません。詳細は [LICENSE](./LICENSE)。
